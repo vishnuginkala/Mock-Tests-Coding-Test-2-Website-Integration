@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-home{
+    background-color: black;
+    background-size: cover;
+}
+.home-image{
+    height: 150px;
+    width: 150px;
+    
+}
+.margin{
+    margin: 10px;
+}
+.turtle-bg{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/animals-turtle-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.turtle-heading{
+    font-size: 10px;
+}
+.turtle-description{
+    font-size: 20px;
+}
+.turtle-button{
+    height: 40px;
+    width: 60px;
+}
+.reccoon-bg{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/animals-raccoon-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.kangaroo-bg{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/animals-kangaroo-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.lion-bg{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/animals-lion-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
